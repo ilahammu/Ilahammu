@@ -1,4 +1,4 @@
-## Hi there 👋
+# Holla Amigo I'm _Ilham Muhijri Yosefin_ 👋
 
 <!--
 **ilahammu/Ilahammu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I'm a Flutter and Node.JS backend developer
+
+- **Fun fact**: fresh Graduate at Telkom University
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](images/gue.jpg)
