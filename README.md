@@ -62,5 +62,5 @@ Fresh graduate at Telkom University
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](images/gue.jpg)
+<!-- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](images/gue.jpg) -->
 
