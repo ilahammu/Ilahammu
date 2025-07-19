@@ -21,23 +21,20 @@ Fresh graduate at Telkom University
 ![](https://nirzak-streak-stats.vercel.app/?user=Ilahammu&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilahammu&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=Ilahammu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-###
-
 <img src="https://raw.githubusercontent.com/ilahammu/ilahammu/output/snake.svg" alt="Snake animation" />
 
-###
-
-<img src="images/gue.jpg" alt="Meme mantab." width="300" height="200"/>
+<div align="center">
+<img src="images/gue.jpg" alt="Meme mantab." width="400" height="300"/>
+</div>
 
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ilahammu.ilahammu&left_color=black&right_color=grey&left_text=Vengunjungs"  />
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=Ilahammu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
